@@ -15,7 +15,7 @@ You should also have a [SQLite installation](http://www.tutorialspoint.com/sqlit
 
 For the proper setup, clone this repository:
 
-    git clone github.com/BCNDojos/url-shortener-api.github
+    git clone github.com/BCNDojos/url-shortener-api.git
     
 Once this is cloned, you can install all requirements in your environment by using the following commands:
 
