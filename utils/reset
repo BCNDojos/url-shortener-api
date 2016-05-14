@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf url_shortener/ api/ db.sqlite3 manage.py
+cp db.url-shortener db.sqlite3
